@@ -2,10 +2,14 @@
 <h3 align="center">AI & Data Science Student | ML | Learning Full Stack Development</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Full+Stack;3rd+Year+AI%26DS+Student;Turning+Data+Into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1500&color=A855F7&center=true&vCenter=true&width=500&height=60&lines=Raagavi+A.P;AI+%26+Data+Science+%2F%2F+ML" alt="Signature Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge" />
+</p>
+
+<img src="./divider.svg" width="100%" height="6"/>
 
 ### About Me
 - 3rd year student, Artificial Intelligence & Data Science
@@ -20,7 +24,7 @@
   </a>
 </p>
 
----
+<img src="./divider.svg" width="100%" height="6"/>
 
 ### Tech Stack
 
@@ -28,13 +32,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python" />
 </p>
 
----
+<img src="./divider.svg" width="100%" height="6"/>
 
 ### 3D Contribution Graph
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
----
+<img src="./divider.svg" width="100%" height="6"/>
 
 ### Featured Project
 
@@ -45,7 +49,7 @@ Bilingual (English/Tamil) crop risk advisory for tomato farmers, using live weat
 **Language used:**
 Python
 
----
+<img src="./divider.svg" width="100%" height="6"/>
 
 ### What I'm Working On
 - Building end-to-end ML projects (dataset → model → deployment)
@@ -53,20 +57,28 @@ Python
 - Working through Andrew Ng's Machine Learning Specialization
 - Learning React to go full stack alongside Java
 
----
+<img src="./divider.svg" width="100%" height="6"/>
 
 ### Certifications
 - 🎓 Infosys Springboard — HTML
 - 🎓 Infosys Springboard — Python
 - 🎓 Skillrack — SQL
 
----
+<img src="./divider.svg" width="100%" height="6"/>
 
 ### GitHub Metrics
 
 ![Metrics](./github-metrics.svg)
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzapraagavi-eng&theme=default&hide_border=true&background=FFFFFF&ring=A855F7&fire=A855F7" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Skillrack-SQL%20Certified-A855F7?style=for-the-badge" />
+</p>
+
+<img src="./divider.svg" width="100%" height="6"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itzapraagavi-eng&label=Profile%20views&color=A855F7&style=flat" alt="profile views" />
@@ -75,5 +87,5 @@ Python
 <br>
 
 <p align="center">
-  <img src="./signature.png" width="180"/>
+  <img src="./signature-animated.svg" width="220"/>
 </p>
