@@ -2,7 +2,7 @@
 <h3 align="center">AI & Data Science Student | ML | Learning Full Stack Development</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1500&color=A855F7&center=true&vCenter=true&width=500&height=60&lines=Raagavi+A.P;AI+%26+Data+Science+%2F%2F+ML" alt="Signature Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1500&color=A855F7&center=true&vCenter=true&width=500&height=60&lines=RAAGAVI+A.P;AI+%26+Data+Science+%2F%2F+ML" alt="Signature Typing SVG" />
 </p>
 
 <img src="./divider.svg" width="100%" height="6"/>
