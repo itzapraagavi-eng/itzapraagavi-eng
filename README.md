@@ -7,7 +7,8 @@
 
 <img src="./divider.svg" width="100%" height="6"/>
 
-### About Me
+<p align="center"><img src="./header-about.svg"/></p>
+
 - 3rd year student, Artificial Intelligence & Data Science
 - Currently building ML projects and learning full-stack development
 - Currently learning: Machine Learning, moving into React next for full stack
@@ -17,7 +18,7 @@
 
 <img src="./divider.svg" width="100%" height="6"/>
 
-### Tech Stack
+<p align="center"><img src="./header-techstack.svg"/></p>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python" />
@@ -25,13 +26,13 @@
 
 <img src="./divider.svg" width="100%" height="6"/>
 
-### 3D Contribution Graph
+<p align="center"><img src="./header-3dgraph.svg"/></p>
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <img src="./divider.svg" width="100%" height="6"/>
 
-### Featured Project
+<p align="center"><img src="./header-project.svg"/></p>
 
 **[AgriShield](#)**
 
@@ -42,7 +43,8 @@ Python
 
 <img src="./divider.svg" width="100%" height="6"/>
 
-### What I'm Working On
+<p align="center"><img src="./header-working.svg"/></p>
+
 - Building end-to-end ML projects (dataset → model → deployment)
 - Preparing for placements — DSA + ML fundamentals
 - Working through Andrew Ng's Machine Learning Specialization
@@ -50,14 +52,15 @@ Python
 
 <img src="./divider.svg" width="100%" height="6"/>
 
-### Certifications
+<p align="center"><img src="./header-certs.svg"/></p>
+
 - 🎓 Infosys Springboard — HTML
 - 🎓 Infosys Springboard — Python
 - 🎓 Skillrack — SQL
 
 <img src="./divider.svg" width="100%" height="6"/>
 
-### GitHub Metrics
+<p align="center"><img src="./header-metrics.svg"/></p>
 
 ![Metrics](./github-metrics.svg)
 
