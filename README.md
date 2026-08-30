@@ -77,5 +77,5 @@ Python
 <br>
 
 <p align="center">
-  <img src="./signature-animated.svg" width="220"/>
+  <img src="./signature-animated-purple.svg" width="220"/>
 </p>
