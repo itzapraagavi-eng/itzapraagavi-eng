@@ -56,9 +56,9 @@ Python
 ---
 
 ### Certifications
-- Infosys Springboard — HTML
-- Infosys Springboard — Python
-- Skillrack — SQL
+- 🎓 Infosys Springboard — HTML
+- 🎓 Infosys Springboard — Python
+- 🎓 Skillrack — SQL
 
 ---
 
