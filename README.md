@@ -1,12 +1,8 @@
-<h1 align="center">Hi, I'm Raagavi A.P</h1>
+<h1 align="center">Hi, I'm RAAGAVI A.P</h1>
 <h3 align="center">AI & Data Science Student | ML | Learning Full Stack Development</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1500&color=A855F7&center=true&vCenter=true&width=500&height=60&lines=Raagavi+A.P;AI+%26+Data+Science+%2F%2F+ML" alt="Signature Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge" />
 </p>
 
 <img src="./divider.svg" width="100%" height="6"/>
@@ -17,12 +13,7 @@
 - Currently learning: Machine Learning, moving into React next for full stack
 - Ask me about: Python, Java, Machine Learning, Data Analysis
 - Reach me: itz.apraagavi@gmail.com
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/raagavi-ap/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+- LinkedIn: [linkedin.com/in/raagavi-ap](https://www.linkedin.com/in/raagavi-ap/)
 
 <img src="./divider.svg" width="100%" height="6"/>
 
@@ -72,10 +63,6 @@ Python
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzapraagavi-eng&theme=default&hide_border=true&background=FFFFFF&ring=A855F7&fire=A855F7" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Skillrack-SQL%20Certified-A855F7?style=for-the-badge" />
 </p>
 
 <img src="./divider.svg" width="100%" height="6"/>
