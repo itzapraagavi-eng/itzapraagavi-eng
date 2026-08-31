@@ -31,9 +31,9 @@
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzapraagavi-eng/itzapraagavi-eng/output/galaga-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzapraagavi-eng/itzapraagavi-eng/output/galaga-contribution-graph.svg">
-    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/itzapraagavi-eng/itzapraagavi-eng/output/galaga-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzapraagavi-eng/itzapraagavi-eng/output/puzzle-bobble-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzapraagavi-eng/itzapraagavi-eng/output/puzzle-bobble-contribution-graph.svg">
+    <img alt="puzzle bobble contribution graph" src="https://raw.githubusercontent.com/itzapraagavi-eng/itzapraagavi-eng/output/puzzle-bobble-contribution-graph.svg">
 </picture>
 
 <img src="./divider.svg" width="100%" height="6"/>
