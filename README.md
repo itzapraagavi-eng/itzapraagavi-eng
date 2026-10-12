@@ -36,6 +36,10 @@
 
 <p align="center"><img src="./header-project.svg"/></p>
 
+[VolunteerConnect](https://github.com/itzapraagavi-eng/VolunteerConnect)
+A volunteer–NGO platform connecting volunteers with organisations across India, with event discovery by cause on a live map, scannable QR entry passes for venue check-in, impact tracking in real units such as trees planted and meals served, a badge progression system, and downloadable verified certificates of participation. Includes a QR encoder built from scratch with Reed–Solomon error correction.
+Language used: JavaScript (React, Vite)
+Live demo: https://volunteer-connect-iota.vercel.app/
 **[AgriShield](#)**
 
 Bilingual (English/Tamil) crop risk advisory for tomato farmers, using live weather data with rule-based and AI predictions to warn against pest and disease risk, plus localized crop recommendations based on soil type.
